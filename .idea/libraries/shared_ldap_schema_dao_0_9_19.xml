@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="shared-ldap-schema-dao-0.9.19">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/artifacts-23/filestore/org.apache.directory.shared/shared-ldap-schema-dao/0.9.19/jar/b0103b559d251b8c46976cf0448771e396133a32/shared-ldap-schema-dao-0.9.19.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/artifacts-23/filestore/org.apache.directory.shared/shared-ldap-schema-dao/0.9.19/source/69d1143fa48473a553db9b862225e4729813a1f3/shared-ldap-schema-dao-0.9.19-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

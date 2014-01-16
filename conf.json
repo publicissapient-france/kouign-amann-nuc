@@ -1,0 +1,6 @@
+// Example JSON config file
+
+{
+    "listen": "10.1.1.144",
+    "port": 8080
+}

@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="shared-asn1-0.9.19">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/artifacts-23/filestore/org.apache.directory.shared/shared-asn1/0.9.19/jar/964da9c7f8d5efbd51c352f9a7db86988a4b3e05/shared-asn1-0.9.19.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/artifacts-23/filestore/org.apache.directory.shared/shared-asn1/0.9.19/source/dc114d10419d6677cfa7918ed2fc3db3fd9e4973/shared-asn1-0.9.19-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

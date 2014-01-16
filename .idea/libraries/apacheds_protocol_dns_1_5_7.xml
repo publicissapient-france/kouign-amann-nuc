@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="apacheds-protocol-dns-1.5.7">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/artifacts-23/filestore/org.apache.directory.server/apacheds-protocol-dns/1.5.7/jar/c74c81843d5926d7ea9ba6d52245369b7ae01990/apacheds-protocol-dns-1.5.7.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/artifacts-23/filestore/org.apache.directory.server/apacheds-protocol-dns/1.5.7/source/12e114e3503dfe7ac4bbf2135b9e5b1ef795f552/apacheds-protocol-dns-1.5.7-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

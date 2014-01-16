@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="apacheds-core-api-1.5.7">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/artifacts-23/filestore/org.apache.directory.server/apacheds-core-api/1.5.7/jar/1c103b7827827935046a29dc9939f386b8c136cd/apacheds-core-api-1.5.7.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/artifacts-23/filestore/org.apache.directory.server/apacheds-core-api/1.5.7/source/2b64c56fc0e65b109e497a6c5a0008c9d6f44501/apacheds-core-api-1.5.7-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

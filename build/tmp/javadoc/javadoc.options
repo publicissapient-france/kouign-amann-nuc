@@ -1,0 +1,6 @@
+-classpath '/Users/pablolopez/xebia/dev/projects/kouign-amann-nuc/build/classes/main:/Users/pablolopez/xebia/dev/projects/kouign-amann-nuc/build/resources/main:/Users/pablolopez/.gradle/caches/modules-2/files-2.1/com.sleepycat/je/5.0.73/af8a905a5266e68f9182a1c67a8533b548f57c6e/je-5.0.73.jar'
+-d '/Users/pablolopez/xebia/dev/projects/kouign-amann-nuc/build/docs/javadoc'
+-doctitle 'kouign-amann-nuc 1.0.0-final API'
+-quiet 
+-windowtitle 'kouign-amann-nuc 1.0.0-final API'
+'/Users/pablolopez/xebia/dev/projects/kouign-amann-nuc/src/main/java/com/mycompany/myproject/PingVerticle.java'

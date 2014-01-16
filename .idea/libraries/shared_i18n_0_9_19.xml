@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="shared-i18n-0.9.19">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/artifacts-23/filestore/org.apache.directory.shared/shared-i18n/0.9.19/jar/f4f9013c168628c1309b61b481af2d34b8971993/shared-i18n-0.9.19.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/artifacts-23/filestore/org.apache.directory.shared/shared-i18n/0.9.19/source/365325252fe6048b4f236efdacf3256b340c18ff/shared-i18n-0.9.19-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

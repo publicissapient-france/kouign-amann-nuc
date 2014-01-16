@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="shared-ldap-jndi-0.9.19">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/artifacts-23/filestore/org.apache.directory.shared/shared-ldap-jndi/0.9.19/jar/57c84b9a2705c7edd4416e4ef9b0c3a670fb7911/shared-ldap-jndi-0.9.19.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/artifacts-23/filestore/org.apache.directory.shared/shared-ldap-jndi/0.9.19/source/f4e2e5b3f57c1fd7e08e7277d9f377e813d12fe0/shared-ldap-jndi-0.9.19-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
